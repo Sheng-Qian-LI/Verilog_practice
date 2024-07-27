@@ -1,4 +1,6 @@
-# Module Name: timer_top  
+# Timer(clock)  
+
+## Module Name: timer_top  
  
 ## Features:   
 #### 1.Digital timer with day, hour, minute, and second display   
