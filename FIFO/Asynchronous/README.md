@@ -3,6 +3,8 @@
   <img src="https://github.com/user-attachments/assets/ef4f0ade-bcd3-4d82-b4dd-92de49253ce0" alt="image" width="400">
 </div>
 
+#### Spec : [7:0]fifo_buffer[7:0] FIFO寬度8，深度8
+
 #### 📌寫滿定義(Full) : CLK1 wr_ptr 追上 CLK2 rd_ptr  
 #### Q : 要怎麼知道是否寫滿?
 #### A : 將 CLK2 rd_ptr 同部給 CLK1 wr_ptr 做判斷。 
@@ -46,7 +48,7 @@
 
 ## 1️⃣Function
 
-#### Gray code 判斷寫滿或讀空
+#### 透過增加一個bit來判斷寫滿或讀空Gray code 
 #### 1. 前2位元不同，其餘相同代表寫滿。
 #### 2. 前2位元相同，其餘相同代表讀空。
 
