@@ -54,3 +54,5 @@
 ## 2️⃣Result
 ![image](https://github.com/user-attachments/assets/8ecbd7cb-439f-4c90-b9fb-4a51789ef2b4)
 
+#### 一開始wr_en先拉起來，data_in開始寫入，寫到第8個值時 full 拉起來，代表 FIFO buffer 滿了；接著rd_en拉起，data_out輸出，讀完第8個值時 empty 拉起來，代表 FIFO buffer 空了。
+#### 最後測試連續同時寫入和讀取的功能也正常。
