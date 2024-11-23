@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/ef4f0ade-bcd3-4d82-b4dd-92de49253ce0" alt="image" width="400">
 </div>
 
-#### Spec : [7:0]fifo_buffer[7:0] FIFO寬度8，深度8
+#### ✏️Spec : [7:0]fifo_buffer[7:0] FIFO寬度8，深度8
 
 #### 📌寫滿定義(Full) : CLK1 wr_ptr 追上 CLK2 rd_ptr  
 #### Q : 要怎麼知道是否寫滿?
