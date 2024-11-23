@@ -1,1 +1,1 @@
-Some basic Verilog exercises.
+⭐Some basic Verilog exercises.⭐
