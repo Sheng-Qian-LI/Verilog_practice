@@ -1,4 +1,7 @@
 ## 0️⃣Introduction
+
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ef4f0ade-bcd3-4d82-b4dd-92de49253ce0" alt="image" width="400">
 </div>
@@ -93,3 +96,5 @@ Here’s the translation of your text into English:
 #### Finally, testing for simultaneous continuous writing and reading functions correctly as well. Let me know if you need any further assistance!
 
 ---
+
+#### 參考資料 ： https://wuzhikai.blog.csdn.net/article/details/121152844?ydreferer=aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3d1emhpa2FpZGV0Yi9hcnRpY2xlL2RldGFpbHMvMTIzNDY3NjMwP29wc19yZXF1ZXN0X21pc2M9JTI1N0IlMjUyMnJlcXVlc3QlMjU1RmlkJTI1MjIlMjUzQSUyNTIyNzY1RTQ2RDgtOEQ4OS00MkJCLUExRUEtNjY5OTk1OUE4M0Q0JTI1MjIlMjUyQyUyNTIyc2NtJTI1MjIlMjUzQSUyNTIyMjAxNDA3MTMuMTMwMTAyMzM0LnBjJTI1NUZibG9nLiUyNTIyJTI1N0QmcmVxdWVzdF9pZD03NjVFNDZEOC04RDg5LTQyQkItQTFFQS02Njk5OTU5QTgzRDQmYml6X2lkPTAmdXRtX21lZGl1bT1kaXN0cmlidXRlLnBjX3NlYXJjaF9yZXN1bHQubm9uZS10YXNrLWJsb2ctMn5ibG9nfmZpcnN0X3JhbmtfZWNwbV92MX5yYW5rX3YzMV9lY3BtLTE4LTEyMzQ2NzYzMC1udWxsLW51bGwubm9uZWNhc2UmdXRtX3Rlcm09JUU1JUJDJTgyJUU2JUFEJUE1ZmlmbyZzcG09MTAxOC4yMjI2LjMwMDEuNDQ1MA%3D%3D
