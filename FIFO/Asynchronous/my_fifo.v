@@ -10,8 +10,6 @@
 //  	1.Double sync to solve CDC problem
 //      
 //
-//	Author : Sheng Qian Li
-//
 //===================================================================
 
 module	async_fifo
