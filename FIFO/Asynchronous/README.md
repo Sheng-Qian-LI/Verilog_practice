@@ -77,9 +77,9 @@ Here’s the translation of your text into English:
 #### 2. 前2位元相同，其餘相同代表讀空。
 
 ---
-By adding an extra bit to determine if the FIFO is full or empty using Gray code:
-If the first two bits are different and the remaining bits are the same, it indicates that the FIFO is full.
-If the first two bits are the same and the remaining bits are the same, it indicates that the FIFO is empty.
+#### By adding an extra bit to determine if the FIFO is full or empty using Gray code:
+#### If the first two bits are different and the remaining bits are the same, it indicates that the FIFO is full.
+#### If the first two bits are the same and the remaining bits are the same, it indicates that the FIFO is empty.
 ---
 
 ## 2️⃣Result
