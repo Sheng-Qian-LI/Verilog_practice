@@ -1,6 +1,8 @@
 # Timer(clock)  
 
 ## Module Name: timer_top  
+
+![image](https://github.com/user-attachments/assets/d2f6c1a9-5445-42e8-82e2-d0e32d616983)
  
 ## Features:   
 #### 1.Digital timer with day, hour, minute, and second display   
@@ -12,7 +14,7 @@
   
 ### Author : Sheng Qian Li    
 
-![image](https://github.com/user-attachments/assets/d2f6c1a9-5445-42e8-82e2-d0e32d616983)
+
 
   
 
