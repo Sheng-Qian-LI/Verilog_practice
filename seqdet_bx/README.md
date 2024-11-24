@@ -2,6 +2,11 @@
 
 ## Module Name: seqdet_bx  
 
+#### Block diagram  
+
+![image](https://github.com/user-attachments/assets/ce4cccb9-73fa-457d-9659-f948bbd6b56e)
+
+
 ## Features:  
 
 #### 1.Convert 4-bit data (nibble) input into 8-bit data output.  
@@ -14,7 +19,4 @@
 #### 2.When the valid_rx is de-asserted data_out remain at the last.   
  
 ### Author : Sheng Qian Li  
-  
-## Block diagram  
 
-![image](https://github.com/user-attachments/assets/ce4cccb9-73fa-457d-9659-f948bbd6b56e)
